@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from pandas import read_csv
 
-clf = GaussianNB()
+#clf = GaussianNB()
 clf = RandomForestClassifier()
 
 classes = { 0: "Bad Risk", 1: "Good Risk" }
