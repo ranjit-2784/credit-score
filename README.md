@@ -21,3 +21,4 @@ Tasks Done:
     4. get best model based up on the predict outcomes
     5. Explainability using h2o
     6. API and MLOPS 
+TO-DO: save best model to file, load the file in API to get prediction using the model in the file
