@@ -6,7 +6,7 @@ ml ops app for cred score dataset
 Week 6 Hackathon: Group 22 
 
 Members
-RANJIT KUMAR GANTASALA/
+RANJIT KUMAR GANTASALA
 Krishna Chaitanya KVS
 
 Dataset –German Credit Dataset
